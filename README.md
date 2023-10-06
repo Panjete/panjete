@@ -12,11 +12,14 @@ More about me at :link: [my webpage!](https://panjete.github.io)
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="c" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.nsnam.org"><img src="https://miro.medium.com/v2/resize:fit:1400/1*UfiUbQE-yA5AA9uoZEX3CQ.png" width="40" height="45"></a>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/>
+</p>
 <!-- ### GitStats:
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast&hide=issues,contribs" alt="panjete" width="320"  height="320"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast&hide=issues,contribs" alt="panjete" width="320"  height="320"/> 
+
 
 -->
 
