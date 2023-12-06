@@ -16,7 +16,7 @@ More about me at :link: [my webpage!](https://panjete.github.io)
 -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/> <img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast&hide=contribs" alt="panjete" width="320"  height="320"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/> <img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast" alt="panjete" width="320"  height="320"/> 
 </p>
 <!-- ### GitStats:
 -->
