@@ -4,7 +4,7 @@
 
 These repositories are a non-exhaustive list of some projects I have taken up, where I dabble <br/> with AI, System Design, Computer Networks, NLP, Information Retrieval and much more!
 
-You can reach out to me on  [linkedIn](www.linkedin.com/in/gurarmaanpanjeta) or :email: suparmaansingh@gmail.com
+You can reach out to me on  [linkedIn](https://www.linkedin.com/in/gurarmaanpanjeta/) or :email: suparmaansingh@gmail.com
 
 More about me at :link: [my webpage!](https://panjete.github.io)
 
