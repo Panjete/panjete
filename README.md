@@ -4,11 +4,32 @@
 
 These repositories are a non-exhaustive list of some projects I have taken up, where I dabble <br/> with AI, System Design, Computer Networks, NLP, Information Retrieval and much more!
 
-You can reach out to me on  [linkedIn](https://www.linkedin.com/in/gurarmaanpanjeta/) or :email: suparmaansingh@gmail.com
 
-More about me at :link: [my webpage!](https://panjete.github.io)
+
+<div align='center'>
+<p>
+  More about me :  <br/><br/>
+  <span>
+  <a href="https://www.linkedin.com/in/gurarmaansingh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>
+  <a href="mailto:suparmaansingh@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-green?style=for-the-badge&logo=gmail&logoColor=white" />   
+  </a>
+  <a href="https://panjete.github.io">
+    <img src="https://img.shields.io/badge/Webpage-black?style=for-the-badge&logo=readme&logoColor=white" />   
+  </a>
+  </span>
+</p>
+</div>
+
+
 
 <!-- ### GitStats:
+You can reach out to me on  [linkedIn](https://www.linkedin.com/in/gurarmaanpanjeta/) or :email: suparmaansingh@gmail.com
+More about me at :link: [my webpage!](https://panjete.github.io)
+
+<img src="https://img.shields.io/badge/ga%23121011.svg?style=for-the-badge&logo=gmail&logoColor=white" />   
 ### Experienced in :
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="c" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.nsnam.org"><img src="https://miro.medium.com/v2/resize:fit:1400/1*UfiUbQE-yA5AA9uoZEX3CQ.png" width="40" height="45"></a>
 </p>
