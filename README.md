@@ -1,12 +1,15 @@
-# Hello :earth_asia:, You've reached GSP!
 
-### This is Gurarmaan S. Panjeta, a Senior Undergrad from IIT, Delhi.
+<div align='center'>
+
+# Hello :earth_asia:, You've reached GSP!
+  
+### This is Gurarmaan S. Panjeta, a Senior Undergrad at IIT, Delhi.
 
 These repositories are a non-exhaustive list of some projects I have taken up, where I dabble <br/> with AI, System Design, Computer Networks, NLP, Information Retrieval and much more!
 
 
 
-<div align='center'>
+
 <p>
   More about me :  <br/><br/>
   <span>
@@ -23,8 +26,6 @@ These repositories are a non-exhaustive list of some projects I have taken up, w
 </p>
 </div>
 
-
-
 <!-- ### GitStats:
 You can reach out to me on  [linkedIn](https://www.linkedin.com/in/gurarmaanpanjeta/) or :email: suparmaansingh@gmail.com
 More about me at :link: [my webpage!](https://panjete.github.io)
@@ -35,11 +36,11 @@ More about me at :link: [my webpage!](https://panjete.github.io)
 </p>
 
 -->
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/> <img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast" alt="panjete" width="320"  height="320"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast" alt="panjete" width="480"  height="480"/> 
 </p>
 <!-- ### GitStats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/>
 -->
 
 
