@@ -10,7 +10,7 @@ These repositories are a non-exhaustive list of some projects I have taken up, w
 <p>
   More about me :  <br/><br/>
   <span>
-  <a href="https://www.linkedin.com/in/gurarmaansingh">
+  <a href="https://www.linkedin.com/in/gurarmaanpanjeta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>
   <a href="mailto:suparmaansingh@gmail.com">
