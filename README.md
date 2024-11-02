@@ -36,13 +36,6 @@ More about me at :link: [my webpage!](https://panjete.github.io)
 </p>
 
 -->
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast" alt="panjete" width="480"  height="480"/> 
-</p>
-<!-- ### GitStats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/>
--->
-
 
 <div align='center'>
 <picture>
@@ -51,6 +44,16 @@ More about me at :link: [my webpage!](https://panjete.github.io)
   <img alt="github-snake" src="https://raw.githubusercontent.com/panjete/panjete/output/github-contribution-grid-snake.svg"" />
 </picture>
 </div>
+
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast" alt="panjete" width="480"  height="480"/> 
+</p>
+<!-- ### GitStats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/>
+-->
+
+
 
 
 
