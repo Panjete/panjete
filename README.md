@@ -45,10 +45,11 @@ More about me at :link: [my webpage!](https://panjete.github.io)
 </picture>
 </div>
 
-
+<!-- ### GitStats:
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=panjete&show_icons=true&locale=en&theme=highcontrast" alt="panjete" width="480"  height="480"/> 
 </p>
+-->
 <!-- ### GitStats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=panjete&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="panjete" width="240"  height="320"/>
 -->
